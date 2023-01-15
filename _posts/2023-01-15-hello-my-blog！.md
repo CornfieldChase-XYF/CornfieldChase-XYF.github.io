@@ -8,15 +8,17 @@ author: xyf
 
 * content
 {:toc}
+本部分为摘要~
+
+这是我的第一篇博客，可以用做模板
+
+
+
+
+
+
+
 ## Markdown语法学习笔记
-
-本地MD文件编辑器：[Typora]([Typora|Typora中文|typora下载|typora 主题](https://www.typora.net/))
-
-
-
----
-
-
 
 ## 一.标题
 
