@@ -11,23 +11,19 @@ type: page
 
 ## 关于我
 
-<!-- <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe> -->
+一个喜欢技术与艺术的游戏设计爱好者！
 
 
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[CornfieldChase-XYF (github.com)](https://github.com/CornfieldChase-XYF)
+* bilibili：[-CornfieldChase-的个人空间](https://space.bilibili.com/1155332608?spm_id_from=333.1007.0.0)
+* QQ：2374167137
 
 ## 友情链接
 
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+
 
 ## Comments
 
