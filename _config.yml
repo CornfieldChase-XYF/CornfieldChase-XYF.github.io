@@ -7,7 +7,7 @@
 
 # Site settings
 title: Fan
-brief-intro: A Game Design Enthusiast
+brief-intro: 一个游戏设计爱好者
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cornfieldchase-xyf.github.io" # the base hostname & protocol for your site
 
