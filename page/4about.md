@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AboutMe
-permalink: /aboutme/
+title: About
+permalink: /about/
 icon: heart
 type: page
 ---
