@@ -16,23 +16,23 @@
 
 
 
-配置 picgo：
+**配置 picgo：**
 
 > picgo 官网：https://molunerfinn.com/PicGo/
 >
 > picgo 配置方法：[Typora + PicGo + Github 配置详细完整版_picgo github typora_@Liz的博客-CSDN博客](https://blog.csdn.net/m0_46153394/article/details/126327183)
 
-配制好后的使用方法：
+**配制好后的使用方法：**
 
 >  用 picgo 上传图片到 github ，上传图片前在 picgo 中 **手动更改路径** 以切换图片在仓库中的存储路径
 
-举例：
+**举例：**
 
 > 当准备写 2023-01-01-hello-world 这篇文章时，就需要先打开 picgo 将存储路径设置为 picture/2023-01-01-hello-world/
 >
 > 然后用 typora 打开 2023-01-01-hello-world.md 文件开始书写，当插入图片后**右键上传图片**即可
 
-注意：
+**注意：**
 
 >注意：
 >
@@ -46,7 +46,7 @@
 >
 >- 在保证远程和本地同步的情况下，若要**删除图片**可先在本地操作，然后 push 到远程即可
 
-令牌：
+**令牌：**
 
 > picgo 自动上传图片需要 github 的 token（令牌），**token 到期**后需要在 github 的个人设置中重新生成再填写到 picgo
 
