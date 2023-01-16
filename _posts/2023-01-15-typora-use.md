@@ -90,7 +90,7 @@ Typora 是一款轻量级 Markdown 编辑器
 
 "!" + [名字] + (地址)
 
-![示例图片](../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
+<img src="../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片"  />
 
 
 
@@ -109,7 +109,7 @@ Typora 是一款轻量级 Markdown 编辑器
 > HTML语法格式：
 >
 > ```html
-> <img src="../picture/2023-01-15-Typora%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片"  />
+> <img src="../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片"  />
 > ```
 >
 > 
