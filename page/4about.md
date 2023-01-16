@@ -10,7 +10,7 @@ type: page
 {:toc}
 ## 关于我
 
-
+![头像](https://raw.githubusercontent.com/CornfieldChase-XYF/CornfieldChase-XYF.github.io/main/picture/about/202301161459807.png)
 
 一个喜欢技术与艺术的游戏设计爱好者！
 
