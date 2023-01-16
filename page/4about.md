@@ -10,7 +10,7 @@ type: page
 {:toc}
 ## 关于我
 
-<img src="../picture/4about.assets/%E5%A4%B4%E5%83%8F.png" alt="头像" style="zoom:25%;" />
+
 
 一个喜欢技术与艺术的游戏设计爱好者！
 
