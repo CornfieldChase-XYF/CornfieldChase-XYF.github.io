@@ -16,6 +16,8 @@ type: page
 
 
 
+![示例图片](../picture/4about.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
+
 ---
 
 

@@ -90,29 +90,7 @@ Typora 是一款轻量级 Markdown 编辑器
 
 "!" + [名字] + (地址)
 
-![示例图片](../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
-
-
-
-> 在Typora中，右键图片点击**缩放图片**可自动将语法变为**HTML格式**
->
-> 若图片需要在**网页显示**则必须使用HTML格式
->
-> 
->
-> Markdown语法格式：
->
-> ```markdown
-> ![示例图片](../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
-> ```
->
-> HTML语法格式：
->
-> ```html
-> <img src="../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片"  />
-> ```
->
-> 
+<img src="../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片" style="zoom:67%;" />
 
 
 
