@@ -90,7 +90,7 @@ Typora 是一款轻量级 Markdown 编辑器
 
 "!" + [名字] + (地址)
 
-<img src="../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png" alt="示例图片"  />
+![示例图片](../picture/2023-01-15-typora-use.assets/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.png)
 
 
 
