@@ -90,7 +90,7 @@ author: xyf
 
 "!" + [名字] + (地址)
 
-<img src="../picture/2023-01-15-hello-my-blog%EF%BC%81.assets/mountains-6544522__480.jpg" alt="name" style="zoom:50%;" />
+![DBBC3CC36D5EC705C84242715D276D17](../picture/2023-01-15-hello-my-blog%EF%BC%81.assets/DBBC3CC36D5EC705C84242715D276D17.png)
 
 
 
