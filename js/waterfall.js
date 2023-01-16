@@ -17,15 +17,15 @@
       img_link: 'https://raw.githubusercontent.com/CornfieldChase-XYF/CornfieldChase-XYF.github.io/main/picture/demo/202301161551100.png',  //放封面图片url
       //code_link: 'https://www.bilibili.com/video/BV1EU4y1r75T/?spm_id_from=333.999.0.0&vd_source=7f5759036f625cd4d1235ce70c0472e3', // 这里暂时用b站演示视频占位, 以后可以考虑放下载地址（如百度云盘链接）
       title: '光影拼图 Light Shadow Puzzle',
-      core_tech: '视觉 解密 心灵 2022cusga',
-      //description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
+      //core_tech: string,
+      description: '视觉 解密 心灵 2022cusga'
     }, {  // 暗淡蓝点 PALE BLUE DOT
       demo_link: 'https://www.bilibili.com/video/BV1fS4y177cZ/?spm_id_from=333.999.0.0&vd_source=7f5759036f625cd4d1235ce70c0472e3',
       img_link: 'https://raw.githubusercontent.com/CornfieldChase-XYF/CornfieldChase-XYF.github.io/main/picture/demo/202301161552936.png',
       //code_link: 'https://github.com/Gaohaoyang/test/tree/master/headerTransition',
       title: '暗淡蓝点 PALE BLUE DOT',
-      core_tech: '实验游戏 宇宙 gamejam',
-      //description: '花费不到半小时帮师兄做了一个简单的 CSS3 动画效果，当页面滚动到指定距离时，header 区的背景色由透明变为蓝色。仿照了网站 <a href ="https://quorrajs.org/">https://quorrajs.org/</a> 的 Header 区动画效果。'
+      //core_tech: string,
+      description: '实验游戏 宇宙 gamejam'
     }
   ];
 
