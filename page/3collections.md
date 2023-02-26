@@ -16,6 +16,8 @@ type: page
 
 - [SM.MS 图床生成](https://sm.ms/)
 
+- [Youtube 视频批量下载](https://youtubemultidownloader.net/playlists.html)
+
   
 
 ---
