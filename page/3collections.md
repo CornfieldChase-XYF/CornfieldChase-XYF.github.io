@@ -18,6 +18,8 @@ type: page
 
 - [Youtube 视频批量下载](https://youtubemultidownloader.net/playlists.html)
 
+- [Youtube 视频字幕下载](https://downsub.com/)
+
   
 
 ---
