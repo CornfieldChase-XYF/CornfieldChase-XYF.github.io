@@ -20,6 +20,8 @@ type: page
 
 - [Youtube 视频字幕下载](https://downsub.com/)
 
+- [ParseVideo 在线视频下载](https://www.parsevideo.com/)
+
   
 
 ---
